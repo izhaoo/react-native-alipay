@@ -13,6 +13,10 @@ Native AlipaySDK library ([download page](https://docs.open.alipay.com/54/104509
 - iOS: v15.5.9 (2018.11.26)
 - Android: v15.5.9 (2018.11.26)
 
+## zhaoo
+
+- Fix 修复沙箱环境
+
 ## Features
 
 - [x] 快捷登录授权（ https://docs.open.alipay.com/218/105327/ ）
